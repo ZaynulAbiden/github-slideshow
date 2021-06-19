@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I am alive
+"I think I am amazing"
 Use the left arrow to go back!
